@@ -1,0 +1,23 @@
+.container {
+     background-color:rgb(180, 239, 219);
+     padding: 10px;
+     margin: 50px;
+     border-radius: 20px;
+}
+
+h1 {
+     text-align: center;
+     padding-top: 10px;
+}
+
+#schoolGrade {
+     width: 150px;
+     text-align: center;
+     margin-top: 15px;
+     margin-bottom: 2px;
+}
+
+#checkGradeBtn {
+     text-align: center;
+     padding-bottom: 10px;
+}
